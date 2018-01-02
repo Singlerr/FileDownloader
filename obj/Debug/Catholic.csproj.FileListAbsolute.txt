@@ -1,0 +1,15 @@
+C:\Users\Erroneous\source\repos\Catholic\obj\Debug\Catholic.csprojResolveAssemblyReference.cache
+C:\Users\Erroneous\source\repos\Catholic\obj\Debug\Catholic.Properties.Resources.resources
+C:\Users\Erroneous\source\repos\Catholic\obj\Debug\Catholic.csproj.GenerateResource.Cache
+C:\Users\Erroneous\source\repos\Catholic\obj\Debug\Catholic.csproj.CoreCompileInputs.cache
+C:\Users\Erroneous\source\repos\Catholic\bin\Debug\Catholic.exe.config
+C:\Users\Erroneous\source\repos\Catholic\bin\Debug\Catholic.exe
+C:\Users\Erroneous\source\repos\Catholic\bin\Debug\Catholic.pdb
+C:\Users\Erroneous\source\repos\Catholic\obj\Debug\Catholic.exe
+C:\Users\Erroneous\source\repos\Catholic\obj\Debug\Catholic.pdb
+C:\Users\Erroneous\source\repos\Catholic\bin\Debug\Catholic.exe.manifest
+C:\Users\Erroneous\source\repos\Catholic\bin\Debug\Catholic.application
+C:\Users\Erroneous\source\repos\Catholic\obj\Debug\Catholic.main.resources
+C:\Users\Erroneous\source\repos\Catholic\obj\Debug\Catholic.TrustInfo.xml
+C:\Users\Erroneous\source\repos\Catholic\obj\Debug\Catholic.exe.manifest
+C:\Users\Erroneous\source\repos\Catholic\obj\Debug\Catholic.application
